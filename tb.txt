@@ -1,0 +1,52 @@
+{
+    "urls": [
+        {
+            "url": "https://tv.youdu.fan:666",
+            "name": "毒盒（多仓）"
+        }, 
+        {
+            "url": "https://www.100km.top/0",
+            "name": "100km"
+        }, 
+        {
+            "url": "https://raw.gitmirror.com/yoursmile66/TVBox/refs/heads/main/XC.json",
+            "name": "南风"
+        },
+        {
+            "url": "https://dxawi.github.io/0/0.json",
+            "name": "dxawi"
+        },
+        {
+            "url": "http://tv.nxog.top/m/",
+            "name": "讴歌"
+        },  
+        {
+            "url": "http://xhww.fun/小米/DEMO.json",
+            "name": "小米"
+        },
+        {
+            "url": "http://bp.tvbox.cam/",
+            "name": "小白"
+        },
+        {
+            "url": "https://raw.liucn.cc/box/m.json",
+            "name": "老刘"
+        },        
+        {
+            "url": "http://www.饭太硬.top/tv/",
+            "name": "饭太硬"
+        },
+        {
+            "url": "http://pandown.pro/tvbox/tvbox.json",
+            "name": "巧技"
+        }, 
+        {
+            "url": "http://肥猫.live",
+            "name": "肥猫"
+        },
+        {
+            "url": "https://jihulab.com/okcaptain/kko/-/raw/main/ok.txt",
+            "name": "OK"
+        }
+    ]
+}
