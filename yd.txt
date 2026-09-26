@@ -1,0 +1,307 @@
+#EXTM3U
+#EXTINF:-1 catchup="default" catchup-source="http://zxhk.scmcc.sctv.com:8089/yst.lookback.scmobile.com/223.87.21.116:8080/ysten-business/lookback/cctv-1/${start:YmdHMS}/${end:YmdHMS}/1.m3u8" group-title="中央频道" tvg-name="CCTV1",CCTV-1
+http://openwrt.lan:5140/rtp/239.10.0.151:5140?fcc=183.223.164.65:8027
+http://zxhk.scmcc.sctv.com:8089/yst.live.scmobile.com/223.87.21.116:8080/ysten-business/live/cctv-1/1.m3u8
+http://openwrt.lan:5140/rtp/239.11.0.65:5140?fcc=183.223.164.65:8027
+#EXTINF:-1 catchup="default" catchup-source="http://zxhk.scmcc.sctv.com:8089/yst.lookback.scmobile.com/223.87.21.116:8080/ysten-business/lookback/cctv-2/${start:YmdHMS}/${end:YmdHMS}/1.m3u8" group-title="中央频道" tvg-name="CCTV2",CCTV-2
+http://zxhk.scmcc.sctv.com:8089/yst.live.scmobile.com/223.87.21.116:8080/ysten-business/live/cctv-2/1.m3u8
+http://openwrt.lan:5140/rtp/239.11.0.108:5140?fcc=183.223.164.65:8027
+#EXTINF:-1 catchup="default" catchup-source="http://zxhk.scmcc.sctv.com:8089/yst.lookback.scmobile.com/223.87.21.116:8080/ysten-business/lookback/cctv-3/${start:YmdHMS}/${end:YmdHMS}/1.m3u8" group-title="中央频道" tvg-name="CCTV3",CCTV-3
+http://openwrt.lan:5140/rtp/239.11.0.101:5140?fcc=183.223.164.65:8027
+http://zxhk.scmcc.sctv.com:8089/yst.live.scmobile.com/223.87.21.116:8080/ysten-business/live/cctv-3/1.m3u8
+#EXTINF:-1 catchup="default" catchup-source="http://zxhk.scmcc.sctv.com:8089/yst.lookback.scmobile.com/223.87.21.116:8080/ysten-business/lookback/cctv-4/${start:YmdHMS}/${end:YmdHMS}/1.m3u8" group-title="中央频道" tvg-name="CCTV4",CCTV-4
+http://zxhk.scmcc.sctv.com:8089/yst.live.scmobile.com/223.87.21.116:8080/ysten-business/live/cctv-4/1.m3u8
+http://openwrt.lan:5140/rtp/239.11.0.109:5140?fcc=183.223.164.65:8027
+#EXTINF:-1 catchup="default" catchup-source="http://zxhk.scmcc.sctv.com:8089/yst.lookback.scmobile.com/223.87.21.116:8080/ysten-business/lookback/cctv-5/${start:YmdHMS}/${end:YmdHMS}/1.m3u8" group-title="中央频道" tvg-name="CCTV5",CCTV-5
+http://zxhk.scmcc.sctv.com:8089/yst.live.scmobile.com/223.87.21.116:8080/ysten-business/live/cctv-5/1.m3u8
+http://openwrt.lan:5140/rtp/239.11.0.100:5140?fcc=183.223.164.65:8027
+#EXTINF:-1 catchup="default" catchup-source="http://zxhk.scmcc.sctv.com:8089/yst.lookback.scmobile.com/223.87.21.116:8080/ysten-business/lookback/hdcctv05plus/${start:YmdHMS}/${end:YmdHMS}/1.m3u8" group-title="中央频道" tvg-name="CCTV5+",CCTV-5+
+http://zxhk.scmcc.sctv.com:8089/yst.live.scmobile.com/223.87.21.116:8080/ysten-business/live/hdcctv05plus/1.m3u8
+http://openwrt.lan:5140/rtp/239.11.0.241:5140?fcc=183.223.164.65:8027
+#EXTINF:-1 catchup="default" catchup-source="http://zxhk.scmcc.sctv.com:8089/yst.lookback.scmobile.com/223.87.21.116:8080/ysten-business/lookback/cctv-6/${start:YmdHMS}/${end:YmdHMS}/1.m3u8" group-title="中央频道" tvg-name="CCTV6",CCTV-6
+http://zxhk.scmcc.sctv.com:8089/yst.live.scmobile.com/223.87.21.116:8080/ysten-business/live/cctv-6/1.m3u8
+http://openwrt.lan:5140/rtp/239.11.0.102:5140?fcc=183.223.164.65:8027
+#EXTINF:-1 catchup="default" catchup-source="http://zxhk.scmcc.sctv.com:8089/yst.lookback.scmobile.com/223.87.21.116:8080/ysten-business/lookback/cctv-7/${start:YmdHMS}/${end:YmdHMS}/1.m3u8" group-title="中央频道" tvg-name="CCTV7",CCTV-7
+http://zxhk.scmcc.sctv.com:8089/yst.live.scmobile.com/223.87.21.116:8080/ysten-business/live/cctv-7/1.m3u8
+http://openwrt.lan:5140/rtp/239.11.0.110:5140?fcc=183.223.164.65:8027
+#EXTINF:-1 catchup="default" catchup-source="http://zxhk.scmcc.sctv.com:8089/yst.lookback.scmobile.com/223.87.21.116:8080/ysten-business/lookback/cctv-8/${start:YmdHMS}/${end:YmdHMS}/1.m3u8" group-title="中央频道" tvg-name="CCTV8",CCTV-8
+http://zxhk.scmcc.sctv.com:8089/yst.live.scmobile.com/223.87.21.116:8080/ysten-business/live/cctv-8/1.m3u8
+http://openwrt.lan:5140/rtp/239.11.0.103:5140?fcc=183.223.164.65:8027
+#EXTINF:-1 catchup="default" catchup-source="http://zxhk.scmcc.sctv.com:8089/yst.lookback.scmobile.com/223.87.21.116:8080/ysten-business/lookback/cctv-news/${start:YmdHMS}/${end:YmdHMS}/1.m3u8" group-title="中央频道" tvg-name="CCTV9",CCTV-9
+http://zxhk.scmcc.sctv.com:8089/yst.live.scmobile.com/223.87.21.116:8080/ysten-business/live/cctv-news/1.m3u8
+http://openwrt.lan:5140/rtp/239.11.0.111:5140?fcc=183.223.164.65:8027
+#EXTINF:-1 catchup="default" catchup-source="http://zxhk.scmcc.sctv.com:8089/yst.lookback.scmobile.com/223.87.21.116:8080/ysten-business/lookback/cctv-10/${start:YmdHMS}/${end:YmdHMS}/1.m3u8" group-title="中央频道" tvg-name="CCTV10",CCTV-10
+http://zxhk.scmcc.sctv.com:8089/yst.live.scmobile.com/223.87.21.116:8080/ysten-business/live/cctv-10/1.m3u8
+http://openwrt.lan:5140/rtp/239.11.0.112:5140?fcc=183.223.164.65:8027
+#EXTINF:-1 catchup="default" catchup-source="http://zxhk.scmcc.sctv.com:8089/yst.lookback.scmobile.com/223.87.21.116:8080/ysten-business/lookback/cctv-11/${start:YmdHMS}/${end:YmdHMS}/1.m3u8" group-title="中央频道" tvg-name="CCTV11",CCTV-11
+http://zxhk.scmcc.sctv.com:8089/yst.live.scmobile.com/223.87.21.116:8080/ysten-business/live/cctv-11/1.m3u8
+http://openwrt.lan:5140/rtp/239.11.0.22:5140?fcc=183.223.164.65:8027
+#EXTINF:-1 catchup="default" catchup-source="http://zxhk.scmcc.sctv.com:8089/yst.lookback.scmobile.com/223.87.21.116:8080/ysten-business/lookback/cctv-12/${start:YmdHMS}/${end:YmdHMS}/1.m3u8" group-title="中央频道" tvg-name="CCTV12",CCTV-12
+http://zxhk.scmcc.sctv.com:8089/yst.live.scmobile.com/223.87.21.116:8080/ysten-business/live/cctv-12/1.m3u8
+http://openwrt.lan:5140/rtp/239.11.0.113:5140?fcc=183.223.164.65:8027
+#EXTINF:-1 catchup="default" catchup-source="http://zxhk.scmcc.sctv.com:8089/yst.lookback.scmobile.com/223.87.21.116:8080/ysten-business/lookback/cctv-13/${start:YmdHMS}/${end:YmdHMS}/1.m3u8" group-title="中央频道" tvg-name="CCTV13",CCTV-13
+http://zxhk.scmcc.sctv.com:8089/yst.live.scmobile.com/223.87.21.116:8080/ysten-business/live/cctv-13/1.m3u8
+http://openwrt.lan:5140/rtp/239.11.0.24:5140?fcc=183.223.164.65:8027
+#EXTINF:-1 catchup="default" catchup-source="http://zxhk.scmcc.sctv.com:8089/yst.lookback.scmobile.com/223.87.21.116:8080/ysten-business/lookback/cctv-14/${start:YmdHMS}/${end:YmdHMS}/1.m3u8" group-title="中央频道" tvg-name="CCTV14",CCTV-14
+http://zxhk.scmcc.sctv.com:8089/yst.live.scmobile.com/223.87.21.116:8080/ysten-business/live/cctv-14/1.m3u8
+http://openwrt.lan:5140/rtp/239.11.0.114:5140?fcc=183.223.164.65:8027
+#EXTINF:-1 catchup="default" catchup-source="http://zxhk.scmcc.sctv.com:8089/yst.lookback.scmobile.com/223.87.21.116:8080/ysten-business/lookback/cctv-15/${start:YmdHMS}/${end:YmdHMS}/1.m3u8" group-title="中央频道" tvg-name="CCTV15",CCTV-15
+http://zxhk.scmcc.sctv.com:8089/yst.live.scmobile.com/223.87.21.116:8080/ysten-business/live/cctv-15/1.m3u8
+http://openwrt.lan:5140/rtp/239.11.0.26:5140?fcc=183.223.164.65:8027
+#EXTINF:-1 catchup="default" catchup-source="http://zxhk.scmcc.sctv.com:8089/yst.lookback.scmobile.com/223.87.21.116:8080/ysten-business/lookback/cctv-16-4k/${start:YmdHMS}/${end:YmdHMS}/1.m3u8" group-title="中央频道" tvg-name="CCTV16",CCTV-16
+http://openwrt.lan:5140/rtp/239.11.0.67:5140?fcc=183.223.164.65:8027
+http://openwrt.lan:5140/rtp/239.10.0.187:5140?fcc=183.223.164.65:8027
+
+
+http://openwrt.lan:5140/rtp/239.11.0.67:5140?fcc=183.223.164.65:8027
+#EXTINF:-1 catchup="default" catchup-source="http://zxhk.scmcc.sctv.com:8089/yst.lookback.scmobile.com/223.87.21.116:8080/ysten-business/lookback/cctv-17/${start:YmdHMS}/${end:YmdHMS}/1.m3u8" group-title="中央频道" tvg-name="CCTV17",CCTV-17
+http://zxhk.scmcc.sctv.com:8089/yst.live.scmobile.com/223.87.21.116:8080/ysten-business/live/cctv-17/1.m3u8
+http://openwrt.lan:5140/rtp/239.11.0.107:5140?fcc=183.223.164.65:8027
+#EXTINF:-1 catchup="default" catchup-source="http://zxhk.scmcc.sctv.com:8089/yst.lookback.scmobile.com/223.87.21.116:8080/ysten-business/lookback/CCTV-4K/${start:YmdHMS}/${end:YmdHMS}/1.m3u8" group-title="中央频道" tvg-name="CCTV4K",CCTV-4K
+http://openwrt.lan:5140/rtp/239.11.0.61:5140?fcc=183.223.164.65:8027
+http://i.tv:35442/home/cctv4k10m/cctv4k_10m.m3u8
+http://i.tv:35442/home/cctv4k/cctv4k.m3u8
+##EXTINF:-1 group-title="中央频道" tvg-name="CCTV4K",CCTV-8K
+http://openwrt.lan:5140/rtp/239.10.0.134:5140?fcc=183.223.164.65:8027
+
+
+#EXTINF:-1 group-title="地方频道", 凤凰资讯
+http://openwrt.lan:5140/rtp/239.11.0.154:5140?fcc=183.223.164.65:8027
+#EXTINF:-1 group-title="地方频道", 凤凰中文
+http://openwrt.lan:5140/rtp/239.11.0.153:5140?fcc=183.223.164.65:8027
+##EXTINF:-1 group-title="地方频道", 凤凰香港
+https://live.tvfix.org/live/fwxg/index.m3u8
+https://cdn8.163189.xyz/live/fhhk/stream.m3u8
+
+#EXTINF:-1 catchup="default" catchup-source="http://zxhk.scmcc.sctv.com:8089/yst.lookback.scmobile.com/223.87.21.116:8080/ysten-business/lookback/beijingstv_4k/${start:YmdHMS}/${end:YmdHMS}/1.m3u8" group-title="地方频道", 北京卫视
+http://openwrt.lan:5140/rtp/239.10.0.91:5140?fcc=183.223.164.65:8027
+http://zxhk.scmcc.sctv.com:8089/yst.live.scmobile.com/223.87.21.116:8080/ysten-business/live/beijingstv_4k/1.m3u8
+http://openwrt.lan:5140/rtp/239.10.0.92:5140
+#EXTINF:-1 catchup="default" catchup-source="http://zxhk.scmcc.sctv.com:8089/yst.lookback.scmobile.com/223.87.21.116:8080/ysten-business/lookback/dongfangstv/${start:YmdHMS}/${end:YmdHMS}/1.m3u8" group-title="地方频道", 东方卫视
+http://openwrt.lan:5140/rtp/239.11.0.90:5140?fcc=183.223.164.65:8027
+http://zxhk.scmcc.sctv.com:8089/yst.live.scmobile.com/223.87.21.116:8080/ysten-business/live/dongfangstv/1.m3u8
+http://zxhk.scmcc.sctv.com:8089/yst.live.scmobile.com/223.87.21.116:8080/ysten-business/live/dongfangweishi50p/1.m3u8
+#EXTINF:-1 catchup="default" catchup-source="http://zxhk.scmcc.sctv.com:8089/yst.lookback.scmobile.com/223.87.21.116:8080/ysten-business/lookback/zhejiangstv/${start:YmdHMS}/${end:YmdHMS}/1.m3u8" group-title="地方频道", 浙江卫视
+http://openwrt.lan:5140/rtp/239.11.0.89:5140?fcc=183.223.164.65:8027
+http://zxhk.scmcc.sctv.com:8089/yst.live.scmobile.com/223.87.21.116:8080/ysten-business/live/zhejiangstv/1.m3u8
+http://zxhk.scmcc.sctv.com:8089/yst.live.scmobile.com/223.87.21.116:8080/ysten-business/live/zhejiangweishi50p/1.m3u8
+#EXTINF:-1 catchup="default" catchup-source="http://zxhk.scmcc.sctv.com:8089/yst.lookback.scmobile.com/223.87.21.116:8080/ysten-business/lookback/hunanstv/${start:YmdHMS}/${end:YmdHMS}/1.m3u8" group-title="地方频道", 湖南卫视
+http://openwrt.lan:5140/rtp/239.11.0.87:5140?fcc=183.223.164.65:8027
+http://zxhk.scmcc.sctv.com:8089/yst.live.scmobile.com/223.87.21.116:8080/ysten-business/live/hunanstv/1.m3u8
+http://zxhk.scmcc.sctv.com:8089/yst.live.scmobile.com/223.87.21.116:8080/ysten-business/live/hunanweishi50p/1.m3u8
+#EXTINF:-1 catchup="default" catchup-source="http://zxhk.scmcc.sctv.com:8089/yst.lookback.scmobile.com/223.87.21.116:8080/ysten-business/lookback/jiangsustv/${start:YmdHMS}/${end:YmdHMS}/1.m3u8" group-title="地方频道", 江苏卫视
+http://openwrt.lan:5140/rtp/239.11.0.88:5140?fcc=183.223.164.65:8027
+http://zxhk.scmcc.sctv.com:8089/yst.live.scmobile.com/223.87.21.116:8080/ysten-business/live/jiangsustv/1.m3u8
+http://zxhk.scmcc.sctv.com:8089/yst.live.scmobile.com/223.87.21.116:8080/ysten-business/live/jiangsuweishi50p/1.m3u8
+#EXTINF:-1 catchup="default" catchup-source="http://zxhk.scmcc.sctv.com:8089/yst.lookback.scmobile.com/223.87.21.116:8080/ysten-business/lookback/gdws4k/${start:YmdHMS}/${end:YmdHMS}/1.m3u8" group-title="地方频道", 广东卫视
+http://zxhk.scmcc.sctv.com:8089/yst.live.scmobile.com/223.87.21.116:8080/ysten-business/live/gdws4k/1.m3u8
+http://openwrt.lan:5140/rtp/239.10.0.94:5140?fcc=183.223.164.65:8027
+#EXTINF:-1 catchup="default" catchup-source="http://zxhk.scmcc.sctv.com:8089/yst.lookback.scmobile.com/223.87.21.116:8080/ysten-business/lookback/hdsztv1/${start:YmdHMS}/${end:YmdHMS}/1.m3u8" group-title="地方频道", 深圳卫视
+http://openwrt.lan:5140/rtp/239.10.0.93:5140?fcc=183.223.164.65:8027
+http://zxhk.scmcc.sctv.com:8089/yst.live.scmobile.com/223.87.21.116:8080/ysten-business/live/hdsztv1/1.m3u8
+http://zxhk.scmcc.sctv.com:8089/yst.live.scmobile.com/223.87.21.116:8080/ysten-business/live/szws4k/1.m3u8
+#EXTINF:-1 catchup="default" catchup-source="http://zxhk.scmcc.sctv.com:8089/yst.lookback.scmobile.com/223.87.21.116:8080/ysten-business/lookback/shandongstv/${start:YmdHMS}/${end:YmdHMS}/1.m3u8" group-title="地方频道", 山东卫视
+http://openwrt.lan:5140/rtp/239.11.0.91:5140?fcc=183.223.164.65:8027
+http://zxhk.scmcc.sctv.com:8089/yst.live.scmobile.com/223.87.21.116:8080/ysten-business/live/shandongweishi50p/1.m3u8
+#EXTINF:-1 catchup="default" catchup-source="http://zxhk.scmcc.sctv.com:8089/yst.lookback.scmobile.com/223.87.21.116:8080/ysten-business/lookback/sichuanweishi25p/${start:YmdHMS}/${end:YmdHMS}/1.m3u8" group-title="地方频道", 四川卫视
+http://zxhk.scmcc.sctv.com:8089/yst.live.scmobile.com/223.87.21.116:8080/ysten-business/live/sichuanweishi25p/1.m3u8
+http://openwrt.lan:5140/rtp/239.11.0.86:5140?fcc=183.223.164.65:8027
+http://openwrt.lan:5140/rtp/239.11.0.43:5140?fcc=183.223.164.65:8027
+#EXTINF:-1 catchup="default" catchup-source="http://zxhk.scmcc.sctv.com:8089/yst.lookback.scmobile.com/223.87.21.116:8080/ysten-business/lookback/chongqingstv/${start:YmdHMS}/${end:YmdHMS}/1.m3u8" group-title="地方频道", 重庆卫视
+http://zxhk.scmcc.sctv.com:8089/yst.live.scmobile.com/223.87.21.116:8080/ysten-business/live/chongqingstv/1.m3u8
+http://openwrt.lan:5140/rtp/239.11.0.116:5140?fcc=183.223.164.65:8027
+#EXTINF:-1 catchup="default" catchup-source="http://zxhk.scmcc.sctv.com:8089/yst.lookback.scmobile.com/223.87.21.116:8080/ysten-business/lookback/dongnanstv/${start:YmdHMS}/${end:YmdHMS}/1.m3u8" group-title="地方频道", 东南卫视
+http://zxhk.scmcc.sctv.com:8089/yst.live.scmobile.com/223.87.21.116:8080/ysten-business/live/dongnanstv/1.m3u8
+http://openwrt.lan:5140/rtp/239.11.0.41:5140?fcc=183.223.164.65:8027
+#EXTINF:-1 catchup="default" catchup-source="http://zxhk.scmcc.sctv.com:8089/yst.lookback.scmobile.com/223.87.21.116:8080/ysten-business/lookback/tianjinstv/${start:YmdHMS}/${end:YmdHMS}/1.m3u8" group-title="地方频道", 天津卫视
+http://zxhk.scmcc.sctv.com:8089/yst.live.scmobile.com/223.87.21.116:8080/ysten-business/live/tianjinstv/1.m3u8
+#EXTINF:-1 catchup="default" catchup-source="http://zxhk.scmcc.sctv.com:8089/yst.lookback.scmobile.com/223.87.21.116:8080/ysten-business/lookback/hubeistv/${start:YmdHMS}/${end:YmdHMS}/1.m3u8" group-title="地方频道", 湖北卫视
+http://zxhk.scmcc.sctv.com:8089/yst.live.scmobile.com/223.87.21.116:8080/ysten-business/live/hubeistv/1.m3u8
+#EXTINF:-1 catchup="default" catchup-source="http://zxhk.scmcc.sctv.com:8089/yst.lookback.scmobile.com/223.87.21.116:8080/ysten-business/lookback/liaoningstv/${start:YmdHMS}/${end:YmdHMS}/1.m3u8" group-title="地方频道", 辽宁卫视
+http://zxhk.scmcc.sctv.com:8089/yst.live.scmobile.com/223.87.21.116:8080/ysten-business/live/liaoningstv/1.m3u8
+http://openwrt.lan:5140/udp/239.11.0.118:5140?fcc=183.223.164.65:8027
+#EXTINF:-1 catchup="default" catchup-source="http://zxhk.scmcc.sctv.com:8089/yst.lookback.scmobile.com/223.87.21.116:8080/ysten-business/lookback/jilinstv/${start:YmdHMS}/${end:YmdHMS}/1.m3u8" group-title="地方频道", 吉林卫视
+http://zxhk.scmcc.sctv.com:8089/yst.live.scmobile.com/223.87.21.116:8080/ysten-business/live/jilinstv/1.m3u8
+http://openwrt.lan:5140/rtp/239.11.0.35:5140?fcc=183.223.164.65:8027
+#EXTINF:-1 catchup="default" catchup-source="http://zxhk.scmcc.sctv.com:8089/yst.lookback.scmobile.com/223.87.21.116:8080/ysten-business/lookback/hljtv1/${start:YmdHMS}/${end:YmdHMS}/1.m3u8" group-title="地方频道", 黑龙江卫视
+http://zxhk.scmcc.sctv.com:8089/yst.live.scmobile.com/223.87.21.116:8080/ysten-business/live/hljtv1/1.m3u8
+#EXTINF:-1 catchup="default" catchup-source="http://zxhk.scmcc.sctv.com:8089/yst.lookback.scmobile.com/223.87.21.116:8080/ysten-business/lookback/anhuistv/${start:YmdHMS}/${end:YmdHMS}/1.m3u8" group-title="地方频道", 安徽卫视
+http://zxhk.scmcc.sctv.com:8089/yst.live.scmobile.com/223.87.21.116:8080/ysten-business/live/anhuistv/1.m3u8
+#EXTINF:-1 catchup="default" catchup-source="http://zxhk.scmcc.sctv.com:8089/yst.lookback.scmobile.com/223.87.21.116:8080/ysten-business/lookback/hebeistv/${start:YmdHMS}/${end:YmdHMS}/1.m3u8" group-title="地方频道", 河北卫视
+http://zxhk.scmcc.sctv.com:8089/yst.live.scmobile.com/223.87.21.116:8080/ysten-business/live/hebeistv/1.m3u8
+http://openwrt.lan:5140/rtp/239.11.0.31:5140?fcc=183.223.164.65:8027
+#EXTINF:-1 catchup="default" catchup-source="http://zxhk.scmcc.sctv.com:8089/yst.lookback.scmobile.com/223.87.21.116:8080/ysten-business/lookback/henanstv/${start:YmdHMS}/${end:YmdHMS}/1.m3u8" group-title="地方频道", 河南卫视
+http://zxhk.scmcc.sctv.com:8089/yst.live.scmobile.com/223.87.21.116:8080/ysten-business/live/henanstv/1.m3u8
+http://openwrt.lan:5140/rtp/239.11.0.44:5140?fcc=183.223.164.65:8027
+#EXTINF:-1 catchup="default" catchup-source="http://zxhk.scmcc.sctv.com:8089/yst.lookback.scmobile.com/223.87.21.116:8080/ysten-business/lookback/jiangxistv/${start:YmdHMS}/${end:YmdHMS}/1.m3u8" group-title="地方频道", 江西卫视
+http://zxhk.scmcc.sctv.com:8089/yst.live.scmobile.com/223.87.21.116:8080/ysten-business/live/jiangxistv/1.m3u8
+http://openwrt.lan:5140/rtp/239.11.0.42:5140?fcc=183.223.164.65:8027
+#EXTINF:-1 catchup="default" catchup-source="http://zxhk.scmcc.sctv.com:8089/yst.lookback.scmobile.com/223.87.21.116:8080/ysten-business/lookback/shanxi1stv/${start:YmdHMS}/${end:YmdHMS}/1.m3u8" group-title="地方频道", 陕西卫视
+http://zxhk.scmcc.sctv.com:8089/yst.live.scmobile.com/223.87.21.116:8080/ysten-business/live/shanxi1stv/1.m3u8
+http://openwrt.lan:5140/rtp/239.11.0.54:5140?fcc=183.223.164.65:8027
+#EXTINF:-1 catchup="default" catchup-source="http://zxhk.scmcc.sctv.com:8089/yst.lookback.scmobile.com/223.87.21.116:8080/ysten-business/lookback/gansustv/${start:YmdHMS}/${end:YmdHMS}/1.m3u8" group-title="地方频道", 甘肃卫视
+http://zxhk.scmcc.sctv.com:8089/yst.live.scmobile.com/223.87.21.116:8080/ysten-business/live/gansustv/1.m3u8
+http://openwrt.lan:5140/rtp/239.11.0.55:5140?fcc=183.223.164.65:8027
+AABBCC&cdn=bestzb
+#EXTINF:-1 catchup="default" catchup-source="http://zxhk.scmcc.sctv.com:8089/yst.lookback.scmobile.com/223.87.21.116:8080/ysten-business/lookback/guizhoustv/${start:YmdHMS}/${end:YmdHMS}/1.m3u8" group-title="地方频道", 贵州卫视
+http://zxhk.scmcc.sctv.com:8089/yst.live.scmobile.com/223.87.21.116:8080/ysten-business/live/guizhoustv/1.m3u8
+http://openwrt.lan:5140/rtp/239.11.0.51:5140?fcc=183.223.164.65:8027
+#EXTINF:-1 catchup="default" catchup-source="http://zxhk.scmcc.sctv.com:8089/yst.lookback.scmobile.com/223.87.21.116:8080/ysten-business/lookback/guangxistv/${start:YmdHMS}/${end:YmdHMS}/1.m3u8" group-title="地方频道", 广西卫视
+http://zxhk.scmcc.sctv.com:8089/yst.live.scmobile.com/223.87.21.116:8080/ysten-business/live/guangxistv/1.m3u8
+http://openwrt.lan:5140/rtp/239.11.0.48:5140?fcc=183.223.164.65:8027
+#EXTINF:-1 catchup="default" catchup-source="http://zxhk.scmcc.sctv.com:8089/yst.lookback.scmobile.com/223.87.21.116:8080/ysten-business/lookback/yunnanstv/${start:YmdHMS}/${end:YmdHMS}/1.m3u8" group-title="地方频道", 云南卫视
+http://zxhk.scmcc.sctv.com:8089/yst.live.scmobile.com/223.87.21.116:8080/ysten-business/live/yunnanstv/1.m3u8
+http://openwrt.lan:5140/rtp/239.11.0.52:5140?fcc=183.223.164.65:8027
+#EXTINF:-1 catchup="default" catchup-source="http://zxhk.scmcc.sctv.com:8089/yst.lookback.scmobile.com/223.87.21.116:8080/ysten-business/lookback/neimenggustv/${start:YmdHMS}/${end:YmdHMS}/1.m3u8" group-title="地方频道", 内蒙古卫视
+http://zxhk.scmcc.sctv.com:8089/yst.live.scmobile.com/223.87.21.116:8080/ysten-business/live/neimenggustv/1.m3u8
+http://openwrt.lan:5140/rtp/239.11.0.33:5140?fcc=183.223.164.65:8027
+#EXTINF:-1 catchup="default" catchup-source="http://zxhk.scmcc.sctv.com:8089/yst.lookback.scmobile.com/223.87.21.116:8080/ysten-business/lookback/xizangstv/${start:YmdHMS}/${end:YmdHMS}/1.m3u8" group-title="地方频道", 西藏卫视
+http://zxhk.scmcc.sctv.com:8089/yst.live.scmobile.com/223.87.21.116:8080/ysten-business/live/xizangstv/1.m3u8
+#EXTINF:-1 catchup="default" catchup-source="http://zxhk.scmcc.sctv.com:8089/yst.lookback.scmobile.com/223.87.21.116:8080/ysten-business/lookback/xinjiangstv/${start:YmdHMS}/${end:YmdHMS}/1.m3u8" group-title="地方频道", 新疆卫视
+http://zxhk.scmcc.sctv.com:8089/yst.live.scmobile.com/223.87.21.116:8080/ysten-business/live/xinjiangstv/1.m3u8
+http://openwrt.lan:5140/rtp/239.11.0.53:5140?fcc=183.223.164.65:8027
+#EXTINF:-1 catchup="default" catchup-source="http://zxhk.scmcc.sctv.com:8089/yst.lookback.scmobile.com/223.87.21.116:8080/ysten-business/lookback/bingtuan/${start:YmdHMS}/${end:YmdHMS}/1.m3u8" group-title="地方频道", 兵团卫视
+http://zxhk.scmcc.sctv.com:8089/yst.live.scmobile.com/223.87.21.116:8080/ysten-business/live/bingtuan/1.m3u8
+http://openwrt.lan:5140/rtp/239.11.0.204:5140?fcc=183.223.164.65:8027
+#EXTINF:-1 catchup="default" catchup-source="http://zxhk.scmcc.sctv.com:8089/yst.lookback.scmobile.com/223.87.21.116:8080/ysten-business/lookback/ningxiastv/${start:YmdHMS}/${end:YmdHMS}/1.m3u8" group-title="地方频道", 宁夏卫视
+http://openwrt.lan:5140/rtp/239.11.0.57:5140?fcc=183.223.164.65:8027
+http://zxhk.scmcc.sctv.com:8089/yst.live.scmobile.com/223.87.21.116:8080/ysten-business/live/ningxiastv/1.m3u8
+#EXTINF:-1 catchup="default" catchup-source="http://zxhk.scmcc.sctv.com:8089/yst.lookback.scmobile.com/223.87.21.116:8080/ysten-business/lookback/lvyoustv/${start:YmdHMS}/${end:YmdHMS}/1.m3u8" group-title="地方频道" tvg-name="旅游卫视",海南卫视
+http://openwrt.lan:5140/rtp/239.11.0.193:5140?fcc=183.223.164.65:8027
+http://zxhk.scmcc.sctv.com:8089/yst.live.scmobile.com/223.87.21.116:8080/ysten-business/live/lvyoustv/1.m3u8
+
+#EXTINF:-1 catchup="default" catchup-source="http://zxhk.scmcc.sctv.com:8089/yst.lookback.scmobile.com/223.87.21.116:8080/ysten-business/lookback/shanxistv/${start:YmdHMS}/${end:YmdHMS}/1.m3u8" group-title="地方频道", 山西卫视
+http://openwrt.lan:5140/rtp/239.11.0.32:5140?fcc=183.223.164.65:8027
+http://zxhk.scmcc.sctv.com:8089/yst.live.scmobile.com/223.87.21.116:8080/ysten-business/live/shanxistv/1.m3u8
+#EXTINF:-1 catchup="default" catchup-source="http://zxhk.scmcc.sctv.com:8089/yst.lookback.scmobile.com/223.87.21.116:8080/ysten-business/lookback/qinghaistv/${start:YmdHMS}/${end:YmdHMS}/1.m3u8" group-title="地方频道", 青海卫视
+http://openwrt.lan:5140/rtp/239.11.0.56:5140?fcc=183.223.164.65:8027
+http://zxhk.scmcc.sctv.com:8089/yst.live.scmobile.com/223.87.21.116:8080/ysten-business/live/qinghaistv/1.m3u8
+#EXTINF:-1 group-title="地方频道", 三沙卫视
+http://openwrt.lan:5140/rtp/239.11.0.84:5140?fcc=183.223.164.65:8027
+http://zxhk.scmcc.sctv.com:8089/yst.live.scmobile.com/223.87.21.116:8080/ysten-business/live/sanshatv/1.m3u8
+
+
+#EXTINF:-1 catchup="default" catchup-source="http://zxhk.scmcc.sctv.com:8089/yst.lookback.scmobile.com/223.87.21.116:8080/ysten-business/lookback/jiaoyutv/${start:YmdHMS}/${end:YmdHMS}/1.m3u8" group-title="中央频道" tvg-name="中国教育1台",CETV-1
+http://zxhk.scmcc.sctv.com:8089/yst.live.scmobile.com/223.87.21.116:8080/ysten-business/live/jiaoyutv/1.m3u8
+http://openwrt.lan:5140/rtp/239.11.0.139:5140?fcc=183.223.164.65:8027
+#EXTINF:-1 catchup="default" catchup-source="http://zxhk.scmcc.sctv.com:8089/yst.lookback.scmobile.com/223.87.21.116:8080/ysten-business/lookback/SD-2500k-576P-jiaoyutv4/${start:YmdHMS}/${end:YmdHMS}/1.m3u8" group-title="中央频道", CETV-4
+http://openwrt.lan:5140/rtp/239.11.0.248:5140?fcc=183.223.164.65:8027
+
+
+#EXTINF:-1 group-title="数字节目" tvg-name="求索记录" tvg-logo="求索",求索纪录
+http://openwrt.lan:5140/rtp/239.10.0.221:5140?fcc=183.223.164.65:8027
+##EXTINF:-1 catchup="append" catchup-source="&playseek=${start:YmdHMS}-${end:YmdHMS}" group-title="数字节目" tvg-logo="求索",求索科学
+##EXTINF:-1 catchup="append" catchup-source="&playseek=${start:YmdHMS}-${end:YmdHMS}" group-title="数字节目" tvg-logo="求索",求索动物
+##EXTINF:-1 catchup="append" catchup-source="&playseek=${start:YmdHMS}-${end:YmdHMS}" group-title="数字节目" tvg-logo="求索",求索生活
+
+
+#EXTINF:-1 group-title="数字节目" tvg-name="北京纪实" tvg-logo="北京卫视",纪实科教
+http://openwrt.lan:5140/rtp/239.11.0.126:5140?fcc=183.223.164.65:8027
+http://zxhk.scmcc.sctv.com:8089/yst.live.scmobile.com/223.87.21.116:8080/ysten-business/live/bjjskj/1.m3u8
+#EXTINF:-1 group-title="数字节目" tvg-logo="湖南卫视",金鹰纪实
+http://openwrt.lan:5140/rtp/239.10.0.193:5140?fcc=183.223.164.65:8027
+
+##EXTINF:-1 group-title="数字节目",欢笑剧场
+http://openwrt.lan:5140/rtp/239.10.0.129:5140?fcc=183.223.164.65:8027
+
+##EXTINF:-1 group-title="数字节目" tvg-name="SITV都市剧场",都市剧场
+http://openwrt.lan:5140/rtp/239.10.0.106:5140?fcc=183.223.164.65:8027
+
+
+##EXTINF:-1 group-title="数字节目",CHC家庭影院
+http://openwrt.lan:5140/rtp/239.10.0.86:5140?fcc=183.223.164.65:8027
+##EXTINF:-1 group-title="数字节目",CHC动作电影
+http://openwrt.lan:5140/rtp/239.10.0.87:5140?fcc=183.223.164.65:8027
+##EXTINF:-1 group-title="数字节目",CHC影迷电影
+http://openwrt.lan:5140/rtp/239.10.0.88:5140?fcc=183.223.164.65:8027
+
+
+#EXTINF:-1 group-title="数字节目",爱上4K
+http://openwrt.lan:5140/rtp/239.11.0.120:5140?fcc=183.223.164.65:8027
+##EXTINF:-1 catchup="append" catchup-source="&playseek=${start:YmdHMS}-${end:YmdHMS}" group-title="数字节目",纯享4K
+
+
+##EXTINF:-1 group-title="数字节目",动漫秀场
+http://openwrt.lan:5140/rtp/239.10.0.101:5140
+##EXTINF:-1 catchup="append" catchup-source="&playseek=${start:YmdHMS}-${end:YmdHMS}" group-title="数字节目" tvg-logo="湖南卫视",金鹰卡通
+http://zxhk.scmcc.sctv.com:8089/yst.live.scmobile.com/223.87.21.116:8080/ysten-business/live/jinyingkaton/1.m3u8
+##EXTINF:-1 catchup="append" catchup-source="/${start:YmdHMS}/${end:YmdHMS}/1.m3u8" group-title="数字节目",卡酷少儿
+http://openwrt.lan:5140/rtp/239.11.0.129:5140
+##EXTINF:-1 group-title="数字节目",哈哈炫动
+
+##EXTINF:-1 group-title="数字节目",生活时尚
+http://openwrt.lan:5140/rtp/239.10.0.102:5140
+##EXTINF:-1 group-title="数字节目" tvg-name="全纪实",乐游
+http://openwrt.lan:5140/rtp/239.10.0.105:5140
+AABBCC&cdn=bestzb
+##EXTINF:-1 group-title="数字节目",法治天地
+http://openwrt.lan:5140/rtp/239.10.0.180:5140
+##EXTINF:-1 group-title="数字节目",金色学堂
+http://openwrt.lan:5140/rtp/239.10.0.179:5140
+##EXTINF:-1 group-title="数字节目",第一财经
+##EXTINF:-1 group-title="数字节目",东方财经
+http://openwrt.lan:5140/udp/239.10.0.178:5140
+
+
+##EXTINF:-1 group-title="数字节目",游戏风云
+http://openwrt.lan:5140/rtp/239.10.0.103:5140
+##EXTINF:-1 group-title="数字节目",快乐垂钓
+http://openwrt.lan:5140/rtp/239.10.0.128:5140
+http://openwrt.lan:5140/rtp/239.10.0.244:5140
+
+##EXTINF:-1 group-title="数字节目",劲爆体育
+##EXTINF:-1 group-title="数字节目",五星体育
+http://openwrt.lan:5140/rtp/239.11.0.234:5140
+##EXTINF:-1 group-title="数字节目",魅力足球
+
+
+##EXTINF:-1 group-title="数字节目",中国天气
+http://openwrt.lan:5140/rtp/239.10.0.177:5140
+##EXTINF:-1 group-title="数字节目",中国交通
+http://openwrt.lan:5140/rtp/239.10.0.143:5140?fcc=183.223.164.65:8027
+
+##EXTINF:-1 catchup="default" catchup-source="&playseek=${start:YmdHMS}-${end:YmdHMS}" group-title="地方频道" tvg-logo="康巴卫视",康巴卫视
+http://zxhk.scmcc.sctv.com:8089/yst.live.scmobile.com/223.87.21.116:8080/ysten-business/live/kamba-tv/1.m3u8
+http://openwrt.lan:5140/rtp/239.11.0.10:5140
+#EXTINF:-1 catchup="default" catchup-source="http://zxhk.scmcc.sctv.com:8089/yst.lookback.scmobile.com/223.87.21.116:8080/ysten-business/lookback/sctv-2/${start:YmdHMS}/${end:YmdHMS}/1.m3u8" group-title="地方频道" tvg-logo="康巴卫视" tvg-name="SCTV2",四川经济
+http://zxhk.scmcc.sctv.com:8089/yst.live.scmobile.com/223.87.21.116:8080/ysten-business/live/sctv-2/1.m3u8
+http://openwrt.lan:5140/rtp/239.11.0.2:5140
+#EXTINF:-1 catchup="default" catchup-source="http://zxhk.scmcc.sctv.com:8089/yst.lookback.scmobile.com/223.87.21.116:8080/ysten-business/lookback/sctv-3/${start:YmdHMS}/${end:YmdHMS}/1.m3u8" group-title="地方频道" tvg-logo="康巴卫视" tvg-name="SCTV3",四川文化旅游
+http://zxhk.scmcc.sctv.com:8089/yst.live.scmobile.com/223.87.21.116:8080/ysten-business/live/sctv-3/1.m3u8
+http://openwrt.lan:5140/rtp/239.11.0.3:5140
+#EXTINF:-1 catchup="default" catchup-source="http://zxhk.scmcc.sctv.com:8089/yst.lookback.scmobile.com/223.87.21.116:8080/ysten-business/lookback/sctv-4/${start:YmdHMS}/${end:YmdHMS}/1.m3u8" group-title="地方频道" tvg-logo="康巴卫视" tvg-name="SCTV4",四川新闻
+http://zxhk.scmcc.sctv.com:8089/yst.live.scmobile.com/223.87.21.116:8080/ysten-business/live/sctv-4/1.m3u8
+http://openwrt.lan:5140/rtp/239.11.0.5:5140
+#EXTINF:-1 catchup="default" catchup-source="http://zxhk.scmcc.sctv.com:8089/yst.lookback.scmobile.com/223.87.21.116:8080/ysten-business/lookback/hdscyswy/${start:YmdHMS}/${end:YmdHMS}/1.m3u8" group-title="地方频道" tvg-logo="康巴卫视" tvg-name="SCTV5",四川影视文艺
+http://zxhk.scmcc.sctv.com:8089/yst.live.scmobile.com/223.87.21.116:8080/ysten-business/live/hdscyswy/1.m3u8
+http://openwrt.lan:5140/rtp/239.11.0.77:5140
+#EXTINF:-1 catchup="default" catchup-source="http://zxhk.scmcc.sctv.com:8089/yst.lookback.scmobile.com/223.87.21.116:8080/ysten-business/lookback/sctv-7/${start:YmdHMS}/${end:YmdHMS}/1.m3u8" group-title="地方频道" tvg-logo="康巴卫视" tvg-name="SCTV7",四川妇女儿童
+http://zxhk.scmcc.sctv.com:8089/yst.live.scmobile.com/223.87.21.116:8080/ysten-business/live/sctv-7/1.m3u8
+http://openwrt.lan:5140/rtp/239.11.0.8:5140
+#EXTINF:-1 catchup="default" catchup-source="http://zxhk.scmcc.sctv.com:8089/yst.lookback.scmobile.com/223.87.21.116:8080/ysten-business/lookback/SD-1500k-576P-sctv8/${start:YmdHMS}/${end:YmdHMS}/1.m3u8" group-title="地方频道" tvg-logo="康巴卫视" tvg-name="SCTV8",四川科教
+http://zxhk.scmcc.sctv.com:8089/yst.live.scmobile.com/223.87.21.116:8080/ysten-business/live/SD-1500k-576P-sctv8/1.m3u8
+http://openwrt.lan:5140/rtp/239.11.0.194:5140
+#EXTINF:-1 catchup="default" catchup-source="http://zxhk.scmcc.sctv.com:8089/yst.lookback.scmobile.com/223.87.21.116:8080/ysten-business/lookback/sctv-9/${start:YmdHMS}/${end:YmdHMS}/1.m3u8" group-title="地方频道" tvg-logo="康巴卫视" tvg-name="SCTV9",四川公共
+http://zxhk.scmcc.sctv.com:8089/yst.live.scmobile.com/223.87.21.116:8080/ysten-business/live/sctv-9/1.m3u8
+http://openwrt.lan:5140/rtp/239.11.0.4:5140
+#EXTINF:-1 catchup="default" catchup-source="http://zxhk.scmcc.sctv.com:8089/yst.lookback.scmobile.com/223.87.21.116:8080/ysten-business/lookback/scem/${start:YmdHMS}/${end:YmdHMS}/1.m3u8" group-title="地方频道" tvg-logo="康巴卫视" tvg-name="峨嵋电影",四川峨嵋电影
+http://zxhk.scmcc.sctv.com:8089/yst.live.scmobile.com/223.87.21.116:8080/ysten-business/live/scem/1.m3u8
+http://openwrt.lan:5140/rtp/239.11.0.11:5140
+#EXTINF:-1 catchup="default" catchup-source="http://zxhk.scmcc.sctv.com:8089/yst.lookback.scmobile.com/223.87.21.116:8080/ysten-business/lookback/HD-1500k-1080P-scchengdu/${start:YmdHMS}/${end:YmdHMS}/1.m3u8" group-title="地方频道" tvg-name="CDTV1" tvg-logo="成都",成都综合
+http://zxhk.scmcc.sctv.com:8089/yst.live.scmobile.com/223.87.21.116:8080/ysten-business/live/HD-1500k-1080P-scchengdu/1.m3u8
+http://openwrt.lan:5140/rtp/239.10.0.11:5140
+#EXTINF:-1 catchup="default" catchup-source="http://zxhk.scmcc.sctv.com:8089/yst.lookback.scmobile.com/223.87.21.116:8080/ysten-business/lookback/SD-1500k-576P-scchengdu2/${start:YmdHMS}/${end:YmdHMS}/1.m3u8" group-title="地方频道" tvg-name="CDTV2" tvg-logo="成都",成都经济
+http://zxhk.scmcc.sctv.com:8089/yst.live.scmobile.com/223.87.21.116:8080/ysten-business/live/SD-1500k-576P-scchengdu2/1.m3u8
+http://openwrt.lan:5140/rtp/239.10.0.12:5140
+#EXTINF:-1 catchup="default" catchup-source="http://zxhk.scmcc.sctv.com:8089/yst.lookback.scmobile.com/223.87.21.116:8080/ysten-business/lookback/SD-1500k-576P-scchengdu3/${start:YmdHMS}/${end:YmdHMS}/1.m3u8" group-title="地方频道" tvg-name="CDTV3" tvg-logo="成都",成都生活
+http://zxhk.scmcc.sctv.com:8089/yst.live.scmobile.com/223.87.21.116:8080/ysten-business/live/SD-1500k-576P-scchengdu3/1.m3u8
+http://openwrt.lan:5140/rtp/239.10.0.13:5140
+#EXTINF:-1 catchup="default" catchup-source="http://zxhk.scmcc.sctv.com:8089/yst.lookback.scmobile.com/223.87.21.116:8080/ysten-business/lookback/SD-1500k-576P-scchengdu4/${start:YmdHMS}/${end:YmdHMS}/1.m3u8" group-title="地方频道" tvg-name="CDTV4" tvg-logo="成都",成都影视
+http://zxhk.scmcc.sctv.com:8089/yst.live.scmobile.com/223.87.21.116:8080/ysten-business/live/SD-1500k-576P-scchengdu4/1.m3u8
+http://openwrt.lan:5140/rtp/239.10.0.14:5140
+#EXTINF:-1 catchup="default" catchup-source="http://zxhk.scmcc.sctv.com:8089/yst.lookback.scmobile.com/223.87.21.116:8080/ysten-business/lookback/SD-1500k-576P-scchengdu5/${start:YmdHMS}/${end:YmdHMS}/1.m3u8" group-title="地方频道" tvg-name="CDTV5" tvg-logo="成都",成都公共
+http://zxhk.scmcc.sctv.com:8089/yst.live.scmobile.com/223.87.21.116:8080/ysten-business/live/SD-1500k-576P-scchengdu5/1.m3u8
+http://openwrt.lan:5140/rtp/239.10.0.15:5140
+#EXTINF:-1 catchup="default" catchup-source="http://zxhk.scmcc.sctv.com:8089/yst.lookback.scmobile.com/223.87.21.116:8080/ysten-business/lookback/SD-1500k-576P-scchengdu6/${start:YmdHMS}/${end:YmdHMS}/1.m3u8" group-title="地方频道" tvg-name="CDTV6" tvg-logo="成都",成都少儿
+http://zxhk.scmcc.sctv.com:8089/yst.live.scmobile.com/223.87.21.116:8080/ysten-business/live/SD-1500k-576P-scchengdu6/1.m3u8
+http://openwrt.lan:5140/rtp/239.10.0.16:5140
