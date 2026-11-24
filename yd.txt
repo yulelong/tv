@@ -108,18 +108,17 @@ http://zxhk.scmcc.sctv.com:8089/yst.live.scmobile.com/223.87.21.116:8080/ysten-b
 http://192.168.5.1:5140/rtp/239.11.0.86:5140?fcc=183.223.164.65:8027
 http://192.168.5.1:5140/rtp/239.11.0.43:5140?fcc=183.223.164.65:8027
 #EXTINF:-1 catchup="default" catchup-source="http://zxhk.scmcc.sctv.com:8089/yst.lookback.scmobile.com/223.87.21.116:8080/ysten-business/lookback/chongqingstv/${start:YmdHMS}/${end:YmdHMS}/1.m3u8" group-title="地方频道", 重庆卫视
+http://192.168.5.1:5140/rtp/239.11.0.94:5140?fcc=183.223.164.65:8027
 http://zxhk.scmcc.sctv.com:8089/yst.live.scmobile.com/223.87.21.116:8080/ysten-business/live/chongqingstv/1.m3u8
-http://192.168.5.1:5140/rtp/239.11.0.116:5140?fcc=183.223.164.65:8027
+#EXTINF:-1 catchup="default" catchup-source="http://zxhk.scmcc.sctv.com:8089/yst.lookback.scmobile.com/223.87.21.116:8080/ysten-business/lookback/tianjinstv/${start:YmdHMS}/${end:YmdHMS}/1.m3u8" group-title="地方频道", 天津卫视
+http://192.168.5.1:5140/rtp/239.11.0.96:5140?fcc=183.223.164.65:8027
+http://zxhk.scmcc.sctv.com:8089/yst.live.scmobile.com/223.87.21.116:8080/ysten-business/live/tianjinstv/1.m3u8
 #EXTINF:-1 catchup="default" catchup-source="http://zxhk.scmcc.sctv.com:8089/yst.lookback.scmobile.com/223.87.21.116:8080/ysten-business/lookback/dongnanstv/${start:YmdHMS}/${end:YmdHMS}/1.m3u8" group-title="地方频道", 东南卫视
 http://zxhk.scmcc.sctv.com:8089/yst.live.scmobile.com/223.87.21.116:8080/ysten-business/live/dongnanstv/1.m3u8
 http://192.168.5.1:5140/rtp/239.11.0.41:5140?fcc=183.223.164.65:8027
-#EXTINF:-1 catchup="default" catchup-source="http://zxhk.scmcc.sctv.com:8089/yst.lookback.scmobile.com/223.87.21.116:8080/ysten-business/lookback/tianjinstv/${start:YmdHMS}/${end:YmdHMS}/1.m3u8" group-title="地方频道", 天津卫视
-http://zxhk.scmcc.sctv.com:8089/yst.live.scmobile.com/223.87.21.116:8080/ysten-business/live/tianjinstv/1.m3u8
-#EXTINF:-1 catchup="default" catchup-source="http://zxhk.scmcc.sctv.com:8089/yst.lookback.scmobile.com/223.87.21.116:8080/ysten-business/lookback/hubeistv/${start:YmdHMS}/${end:YmdHMS}/1.m3u8" group-title="地方频道", 湖北卫视
-http://zxhk.scmcc.sctv.com:8089/yst.live.scmobile.com/223.87.21.116:8080/ysten-business/live/hubeistv/1.m3u8
 #EXTINF:-1 catchup="default" catchup-source="http://zxhk.scmcc.sctv.com:8089/yst.lookback.scmobile.com/223.87.21.116:8080/ysten-business/lookback/liaoningstv/${start:YmdHMS}/${end:YmdHMS}/1.m3u8" group-title="地方频道", 辽宁卫视
+http://192.168.5.1:5140/rtp/239.11.0.93:5140?fcc=183.223.164.65:8027
 http://zxhk.scmcc.sctv.com:8089/yst.live.scmobile.com/223.87.21.116:8080/ysten-business/live/liaoningstv/1.m3u8
-http://192.168.5.1:5140/udp/239.11.0.118:5140?fcc=183.223.164.65:8027
 #EXTINF:-1 catchup="default" catchup-source="http://zxhk.scmcc.sctv.com:8089/yst.lookback.scmobile.com/223.87.21.116:8080/ysten-business/lookback/jilinstv/${start:YmdHMS}/${end:YmdHMS}/1.m3u8" group-title="地方频道", 吉林卫视
 http://zxhk.scmcc.sctv.com:8089/yst.live.scmobile.com/223.87.21.116:8080/ysten-business/live/jilinstv/1.m3u8
 http://192.168.5.1:5140/rtp/239.11.0.35:5140?fcc=183.223.164.65:8027
@@ -133,9 +132,11 @@ http://192.168.5.1:5140/rtp/239.11.0.31:5140?fcc=183.223.164.65:8027
 #EXTINF:-1 catchup="default" catchup-source="http://zxhk.scmcc.sctv.com:8089/yst.lookback.scmobile.com/223.87.21.116:8080/ysten-business/lookback/henanstv/${start:YmdHMS}/${end:YmdHMS}/1.m3u8" group-title="地方频道", 河南卫视
 http://zxhk.scmcc.sctv.com:8089/yst.live.scmobile.com/223.87.21.116:8080/ysten-business/live/henanstv/1.m3u8
 http://192.168.5.1:5140/rtp/239.11.0.44:5140?fcc=183.223.164.65:8027
+#EXTINF:-1 catchup="default" catchup-source="http://zxhk.scmcc.sctv.com:8089/yst.lookback.scmobile.com/223.87.21.116:8080/ysten-business/lookback/hubeistv/${start:YmdHMS}/${end:YmdHMS}/1.m3u8" group-title="地方频道", 湖北卫视
+http://zxhk.scmcc.sctv.com:8089/yst.live.scmobile.com/223.87.21.116:8080/ysten-business/live/hubeistv/1.m3u8
 #EXTINF:-1 catchup="default" catchup-source="http://zxhk.scmcc.sctv.com:8089/yst.lookback.scmobile.com/223.87.21.116:8080/ysten-business/lookback/jiangxistv/${start:YmdHMS}/${end:YmdHMS}/1.m3u8" group-title="地方频道", 江西卫视
+http://192.168.5.1:5140/rtp/239.11.0.95:5140?fcc=183.223.164.65:8027
 http://zxhk.scmcc.sctv.com:8089/yst.live.scmobile.com/223.87.21.116:8080/ysten-business/live/jiangxistv/1.m3u8
-http://192.168.5.1:5140/rtp/239.11.0.42:5140?fcc=183.223.164.65:8027
 #EXTINF:-1 catchup="default" catchup-source="http://zxhk.scmcc.sctv.com:8089/yst.lookback.scmobile.com/223.87.21.116:8080/ysten-business/lookback/shanxi1stv/${start:YmdHMS}/${end:YmdHMS}/1.m3u8" group-title="地方频道", 陕西卫视
 http://zxhk.scmcc.sctv.com:8089/yst.live.scmobile.com/223.87.21.116:8080/ysten-business/live/shanxi1stv/1.m3u8
 http://192.168.5.1:5140/rtp/239.11.0.54:5140?fcc=183.223.164.65:8027
